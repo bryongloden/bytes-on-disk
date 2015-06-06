@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>98CE9D6D-B870-452C-988F-C2971302EC43</string>
 	<key>IDESourceControlProjectName</key>
-	<string>bytes-on-disk</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0ED72A3BC4D29F53F23175A5BCB400B8BE5A825E</key>
 		<string>https://github.com/EmilyTree1825/bytes-on-disk.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>bytes-on-disk/bytes-on-disk.xcodeproj</string>
+	<string>bytes-on-disk/bytes-on-disk.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0ED72A3BC4D29F53F23175A5BCB400B8BE5A825E</key>
