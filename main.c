@@ -16,9 +16,9 @@ int main()
        int count = 0;
        while (count < 30439314) {
             for (i = 0; i < len; i++) {
-                printf("Character we are writing to the File = %c \n", name[i]);
+                printf("Character we are writing to the File = %c \n", name);
             // Let us use our fputc
-            fputc (name[i], fileAddress);
+            fputc (name, fileAddress);
             }
        }
 	printf("\n We have written the Name successfully");
